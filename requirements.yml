@@ -111,4 +111,7 @@ dependencies:
       - urllib3==2.3.0
       - xgboost==3.0.0
       - zstd==1.5.6.6
+      - accelerate==1.5.2
+      - datasets==3.5.0
+      - peft==0.15.1
 prefix: /Users/saianoopavunuri/miniforge3/envs/compbiohack
